@@ -1,4 +1,6 @@
 [What is Microsoft Dev Box?](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box)
+
+This demo script is based on the official documentation [here]( https://learn.microsoft.com/en-us/azure/dev-box/quickstart-configure-dev-box-service?tabs=AzureADJoin)
 # Demo Steps
 ## 1. Create Dev Center
 <details><summary>Details</summary>
